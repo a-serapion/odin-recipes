@@ -1,1 +1,2 @@
 Hello, I am starting my first HTML project. We will see how it goes. I will do a reflection post after as well!
+*UPDATE* The project is complete. I would say it did not take me long to understand how to complete what I needed to complete. I felt comfortable throughout the process and well equipped to complete it with no difficulty. Hope to come back to it with CSS to make it prettier as it is still a very raw project.
